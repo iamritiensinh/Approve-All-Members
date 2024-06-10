@@ -1,28 +1,16 @@
 # All-RequestsAcceptor
 
-Accept all pending join requests in a chat. UserBot
+Chấp nhận tất cả các yêu cầu tham gia đang chờ xử lý trong một cuộc trò chuyện. Bot người dùng
 
-## How to use
+## Cách sử dụng
 
-* Use `/run` or `.run` this command in your channel to ✅️ accept pending join requests               
-
-
-## Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/All-RequestsAcceptor)               
+* Sử dụng `/run` hoặc `.run` lệnh này trong kênh của bạn để ✅️ chấp nhận các yêu cầu tham gia đang chờ xử lý   
 
 ## Variables
 
-`SESSION` : pyrogram v2 user session ⚠️ v2 required ⚠️ & User must joined in your channel
+`SESSION` : Phiên người dùng pyrogram v2 ⚠️ yêu cầu v2 ⚠️ & Người dùng phải tham gia vào kênh của bạn
 
-## Credits
-
-● my pyro masters ❤️‍🔥 [PR0FESS0R-99](https://github.com/PR0FESS0R-99) & [MdhRzn](https://t.me/Mhd_rzn)
-
-● library [pyrogram](https://docs.pyrogram.org)
-
-● me 😁 [MrMKN](https://github.com/MrMKN)
-
-## How To Use Command 
+## Cách Sử Dụng Lệnh 
 <p align="center">
     <img src="https://graph.org/file/a2a25a5059be1edf981b8.jpg">
 </p>
