@@ -35,11 +35,11 @@ async def approve(client, message):
            except Exception as e:
                logging.error(str(e))
 
-    msg = await client.send_message(Id, "**Task Completed** ✓ **Approved Pending All Join Request**")
+    msg = await client.send_message(Id, "**Nhiệm vụ đã hoàn thành** ✓ **Đã được phê duyệt đang chờ xử lý tất cả các yêu cầu tham gia**")
     await msg.delete()
 
 
-logging.info("Bot Started....")
+logging.info("Bot đã bắt đầu....")
 User.run()
 
 
